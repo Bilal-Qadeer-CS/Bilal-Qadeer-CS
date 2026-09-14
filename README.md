@@ -7,7 +7,9 @@ I am a highly motivated Computer Science student with a strong academic foundati
 
 ### 🎓 Academic & Achievement Highlights
   **3rd Position (Bronze Medal):** Higher Secondary School Certificate (HSSC)
+  
   **NTS NAT-ICS Distinction:** Scored 73/100 (Top Percentile nationwide)
+  
  **1st Position Trophy (SSC):** Scored 968/1100 (88%) in Secondary School
 
 
