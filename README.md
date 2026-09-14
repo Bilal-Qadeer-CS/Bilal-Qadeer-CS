@@ -16,8 +16,11 @@ I am a highly motivated Computer Science student with a strong academic foundati
 
 ###  Technical Stack & Skills
  **Languages:** C++, Python, C#, JavaScript, SQL
+ 
  **Game Engine & Media:** Unity 6, 2D/3D Physics, AI Enemy Behaviors
+ 
  **Web & Databases:** HTML5, CSS3, JavaScript, MySQL, DBMS
+ 
 **Tools & Workflow:** Git, GitHub, MS Access, VS Code
 
 
@@ -42,4 +45,5 @@ I am a highly motivated Computer Science student with a strong academic foundati
 
 **Connect with me:**
  **Email:** mbilalqadeer58@gmail.com
+ 
  **Location:** Lahore, Pakistan
