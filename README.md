@@ -19,7 +19,7 @@ I am a highly motivated Computer Science student with a strong academic foundati
  
  **Game Engine & Media:** Unity 6, 2D/3D Physics, AI Enemy Behaviors
  
- **Web & Databases:** HTML5, CSS3, JavaScript, MySQL, DBMS
+ **Web & Databases:** HTML5, CSS3, JavaScript, MySQL
  
 **Tools & Workflow:** Git, GitHub, MS Access, VS Code
 
