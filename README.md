@@ -24,7 +24,7 @@ I am building hands-on open-source projects to prepare for a Bachelor's degree a
 
 ### 🛠️ Technical Competencies (Self-Learned & Applied)
 
- **Software Engineering & Programming:** C++, C#, Python, Data Structures, OOP, System Logic Architecture.
+ **Software Engineering & Programming:** C++, C#, Python, Data Structures,  System Logic Architecture.
  
  **AI & Data Science:** Generative AI tools, Data Validation Logic, Analytical Problem Solving.
  
