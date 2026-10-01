@@ -6,7 +6,7 @@ Driven by deep curiosity for computing and hardware-software interaction, I am a
 
 I am building hands-on open-source projects to prepare for a Bachelor's degree abroad, with core technical interests spanning **Computer Science, Software Engineering, Artificial Intelligence, Data Science, Cyber Security, Embedded Systems, and Electrical Engineering**.
 
-
+---
 
 ### 🎓 Academic Merit, Official Ranking & Honors
 
@@ -20,7 +20,7 @@ I am building hands-on open-source projects to prepare for a Bachelor's degree a
  
  🚴 **Husn-e-Karkardgi Medal:** Awarded prestigious Best Performance Medal in competitive cycling championship.
 
-
+---
 
 ### 🛠️ Technical Competencies (Self-Learned & Applied)
 
